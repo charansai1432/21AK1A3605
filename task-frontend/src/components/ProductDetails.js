@@ -9,6 +9,7 @@ function ProductDetails() {
         <div>
             <h2>Product Details for {id}</h2>
             
+            
         </div>
     );
 }
